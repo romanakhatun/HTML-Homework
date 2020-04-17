@@ -6,6 +6,9 @@
 ### Main Featured:
     Design With HTML5 & CSS3
     Custom Fonts
+    
+### Unfavorable:
+    No Responsive    
 
 <br />
 
