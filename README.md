@@ -1,5 +1,5 @@
-# HTML HOMEWORK WEBSITE
-#### html homework website create with HTML5 & CSS3
+# HOMEWORK WEBSITE
+#### homework website create with HTML5 & CSS3
 
 <br />
 
