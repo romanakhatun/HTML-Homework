@@ -13,4 +13,3 @@
 <br />
 
 ### [Preview Project](https://romanakhatun.github.io/html-homework-website/)
-<br/>
